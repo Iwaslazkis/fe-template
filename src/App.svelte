@@ -36,7 +36,7 @@
 
 <style>
     .logo {
-        height: 6em;
+        height: 9em;
         padding: 1.5em;
         will-change: filter;
     }
